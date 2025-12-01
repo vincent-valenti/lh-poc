@@ -11,6 +11,7 @@ import {
   loadSection,
   loadSections,
   loadCSS,
+  loadScript,
 } from './aem.js';
 
 /**
